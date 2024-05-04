@@ -105,7 +105,7 @@ a{
     align-items: center;
     background-color: rgba(252, 248, 237, 1);
     /*background: linear-gradient( rgba(252, 248, 237, 0.7), rgba(252, 248, 237, 1));*/
-    border-top: rgba(237, 27, 36, 1) solid 1px;
+    /*border-top: rgba(237, 27, 36, 1) solid 1px;*/
 }
 
 .block_1_bottom_text{
